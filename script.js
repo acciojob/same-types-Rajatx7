@@ -7,7 +7,7 @@ function isSameType(value1, value2) {
 
   // Check if the types are the same
   return typeof value1 === typeof value2;
-}
+
 
 	
   //your js code here
